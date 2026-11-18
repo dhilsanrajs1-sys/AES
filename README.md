@@ -145,7 +145,8 @@ int main() {
 }
 
 # OUTPUT:
-<img width="1600" height="582" alt="WhatsApp Image 2026-11-18 at 2 20 09 PM" src="https://github.com/user-attachments/assets/2090a158-ca58-4ed9-a8d4-ea0b9ce68bdc" />
+<img width="720" height="190" alt="image" src="https://github.com/user-attachments/assets/aaa3a917-7299-44ea-aac7-2efdbfbcdf9f" />
+
 
 
 # RESULT:
